@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The Mashine
 
 You can use the [editor on GitHub](https://github.com/Mash36/themashine/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
